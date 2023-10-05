@@ -5,9 +5,9 @@ Student at Bethel University working towards a Computer Science B.S. and a Physi
 
 During Summer 2022 I worked as a research assistant in Bethel University's particle physics group. I learned technical skills such as cloud computing, C++, python, and debugging skills while analyzing particle collision data from the Compact Muon Solenoid Experiment to replicate the discovery of the Higgs Boson for an undergraduate lab.
 
-I also have worked as a teaching assistent for an Intorductory C++ course since January 2022.
+I also have worked as a teaching assistent for an Intorductory C++ course and an Algorithms and Advanced Data Structures course.
 I am an officer in Bethel's branch of the Society of Physics Students.
-I have been on a GLEAM Lunar Robotics Team.
+I am a fellow in the mentorhsip program on campus, who helps organize and run events.
 
 If you have any advice for me, then please reach out.
 If you would like to collaborate, then please contact me.  
